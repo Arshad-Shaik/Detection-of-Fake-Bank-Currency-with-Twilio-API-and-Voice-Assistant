@@ -8,10 +8,10 @@
 
 *This project detects counterfeit banknotes using deep learning techniques CNN - **Convolutional Neural Network** and LBP - **Local Binary Pattern**, integrates a voice-based assistant for interaction, and uses OTP authentication via Twilio API to secure access. The GUI is developed using Python's Tkinter with animated transitions and visual feedback to ensure an intuitive experience.*
 
-**🎥 3. Demo Video LPOE [Live Proof of Execution]**
+# **🎥 3. Demo Video LPOE [Live Proof of Execution]**
 
 
 
-**📂 4. Table of Contents**
+# **📂 4. Table of Contents**
 
-
+  ## Project Description
