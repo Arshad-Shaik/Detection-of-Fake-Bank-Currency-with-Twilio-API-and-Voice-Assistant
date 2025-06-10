@@ -8,24 +8,37 @@
 
 *This project detects ![counterfeit banknotes](https://img.shields.io/badge/counterfeit%20banknotes-%23ff0000) using deep learning techniques ![CNN](https://img.shields.io/badge/CNN-%230AFFFF) - **Convolutional Neural Network** and ![LBP](https://img.shields.io/badge/LBP-%23FFA62F) - **Local Binary Pattern**, integrates a ![voice-based assistant](https://img.shields.io/badge/voice_based-assistant-rebeccapurple) for interaction, and uses ![OTP authentication](https://img.shields.io/badge/OTP%20authentication-tan) via ![Twilio API](https://img.shields.io/badge/Twilio%20API-%23FF1493) to ![secure access](https://img.shields.io/badge/secure_access-%09%23FF4500). The GUI is developed using ![Python's Tkinter](https://img.shields.io/badge/Python's_Tkinter%20-%20%23ADFF2F) with animated transitions and visual feedback to ensure an intuitive experience.*
 
-# **🎥 3. Demo Video LPE ![[[Live Proof of Execution]](https://img.shields.io/badge/Live_Proof_of_Execution-%23DADBDD)](https://img.shields.io/badge/Live_Proof_of_Execution-%23E3E4FA)**
+# **🖥️ 3. System Architecture**
 
+![image](https://github.com/user-attachments/assets/13dd69d8-cfb3-46da-b9ca-caa0477e8e1d)
+
+# 🧮 4. Hardware Requirements
+ - System 	        :  	![i3](https://img.shields.io/badge/i3%20-%20%23FF69B4) or above ![i5](https://img.shields.io/badge/i5%20-%20%23CD5C5C), ![i7](https://img.shields.io/badge/i7%20-%20%237CFC00), ![i9](https://img.shields.io/badge/i9%20-%20%2300FFFF).
+ - RAM            	:   ![4GB](https://img.shields.io/badge/4GB%20-%20%238A2BE2) or above ![8GB](https://img.shields.io/badge/8GB%20-%20%23D2691E), ![16GB](https://img.shields.io/badge/16GB%20-%20%235F9EA0), ![32GB](https://img.shields.io/badge/32GB%20-%20%236495ED). 
+ - Hard Disk        :   ![40GB](https://img.shields.io/badge/40GB%20-%20%23DC143C).
+
+# 🧑‍💻 5. Software Requirements
+- Operating system 	:  	![Windows8](https://img.shields.io/badge/Windows8%20-%20%23BDB76B) or above ![10](https://img.shields.io/badge/10%20-%20%23E9967A), ![11](https://img.shields.io/badge/11%20-%20%23DAA520). 
+- Coding Language   : 	![Python](https://img.shields.io/badge/Python%20-%20%23FF0000).
+
+# **🎥 6. Demo Video LPE ![[[Live Proof of Execution]](https://img.shields.io/badge/Live_Proof_of_Execution-%23DADBDD)](https://img.shields.io/badge/Live_Proof_of_Execution-%23E3E4FA)**
 
 https://github.com/user-attachments/assets/aeb0056a-efad-48ba-914c-c0a863e211f8
 
-
-
-# **📂 4. Table of Contents**
+# **📂 7. Table of Contents**
   
            Project Title
            Project Description
+           System Architecture
+           Hardware Requirements
+           Software Requirements
            Demo Video LPE
            Features
            Technologies Used
            Usage
            Screenshots
 
-# **🌟 5. Features**
+# **🌟 8. Features**
 
 - Real-time ![fake currency detection](https://img.shields.io/badge/fake_currency_detection-maroon) using ![Static Badge](https://img.shields.io/badge/CNN-orange) and ![Static Badge](https://img.shields.io/badge/LBP-lime)
 - Full ![Static Badge](https://img.shields.io/badge/GUI-white) with animated ![splash screens](https://img.shields.io/badge/splash_screens-darkviolet) and ![transitions](https://img.shields.io/badge/transitions-pink)
@@ -33,7 +46,7 @@ https://github.com/user-attachments/assets/aeb0056a-efad-48ba-914c-c0a863e211f8
 - ![OTP](https://img.shields.io/badge/OTP-darkblue) verification via ![SMS](https://img.shields.io/badge/SMS%20-%20%234B0082) using ![Static Badge](https://img.shields.io/badge/Twilio%20API-purple)
 - GUI with ![image](https://img.shields.io/badge/image-skyblue) backgrounds
 
-# **🛠️ 6. Technologies Used**
+# **🛠️ 9. Technologies Used**
 
           --> Python 3.6.7
           --> PIP 21.3.1 
@@ -64,7 +77,7 @@ https://github.com/user-attachments/assets/aeb0056a-efad-48ba-914c-c0a863e211f8
           pyttsx3
           twilio
 
-# **🚀 7. Usage**
+# **🚀 10. Usage**
 
       Run the application
 
@@ -82,7 +95,7 @@ https://github.com/user-attachments/assets/aeb0056a-efad-48ba-914c-c0a863e211f8
           "Classifying Picture In Image", "Exiting The Application © 2025 Arshad Wasib Shaik All Rights Reserved."
       --> Output to predict Fake/Real Notes and Coins.
 
-# **📸 Screenshots**
+# **📸 11. Screenshots**
 
 #### **For ![Fake](https://img.shields.io/badge/Fake%20-%20%23CC33FF) Notes and Coins - !["Image Contains Fake Currency, RBI Will Caught You!!!"](https://img.shields.io/badge/%22Image%20Contains%20Fake%20Currency%2C%20RBI%20Will%20Caught%20You!!!%22%20-%20%238B0000)**
 
