@@ -19,15 +19,18 @@ https://github.com/user-attachments/assets/aeb0056a-efad-48ba-914c-c0a863e211f8
   
            Project Title
            Project Description
-           Demo Video LPOE
+           Demo Video LPE
            Features
+           Technologies Used
+           Usage
+           Screenshots
 
 # **🌟 5. Features**
 
 - Real-time ![fake currency detection](https://img.shields.io/badge/fake_currency_detection-maroon) using ![Static Badge](https://img.shields.io/badge/CNN-orange) and ![Static Badge](https://img.shields.io/badge/LBP-lime)
 - Full ![Static Badge](https://img.shields.io/badge/GUI-white) with animated ![splash screens](https://img.shields.io/badge/splash_screens-darkviolet) and ![transitions](https://img.shields.io/badge/transitions-pink)
 - Voice assistant using ![Static Badge](https://img.shields.io/badge/speech_recognition-blue) and ![Static Badge](https://img.shields.io/badge/pyttsx3-red)
-- ![OTP](https://img.shields.io/badge/OTP-darkblue) verification via SMS using ![Static Badge](https://img.shields.io/badge/Twilio%20API-purple)
+- ![OTP](https://img.shields.io/badge/OTP-darkblue) verification via ![SMS](https://img.shields.io/badge/SMS%20-%20%234B0082) using ![Static Badge](https://img.shields.io/badge/Twilio%20API-purple)
 - GUI with ![image](https://img.shields.io/badge/image-skyblue) backgrounds
 
 # **🛠️ 6. Technologies Used**
@@ -86,3 +89,12 @@ https://github.com/user-attachments/assets/aeb0056a-efad-48ba-914c-c0a863e211f8
 #### **For ![Real](https://img.shields.io/badge/Real%20-%20%235dfa00) Notes and Coins - !["Image Contains Real Currency, Deposited In Bank :)"](https://img.shields.io/badge/%22Image_Contains_Real_Currency%2C_Deposited_In_Bank%22%20-%20%237CFC00)**
 
 
+![Screenshot 2025-06-09 134545](https://github.com/user-attachments/assets/ebddad31-85e9-40d2-b54c-319ae9f2729f)
+![Screenshot 2025-06-09 135027](https://github.com/user-attachments/assets/60e90351-a2e3-4cf1-8cc0-04c6ea391d86)
+![Screenshot 2025-06-09 135104](https://github.com/user-attachments/assets/ed2c1cdb-0fde-40f3-a588-c03432018ac8)
+![Screenshot 2025-06-09 135359](https://github.com/user-attachments/assets/df601ae4-5c7a-41d8-bbcb-f9b16f89d2cc)
+![Screenshot 2025-06-09 135519](https://github.com/user-attachments/assets/3d7fa820-a348-43b8-9ff6-2d3bffd23481)
+![Screenshot 2025-06-09 135619](https://github.com/user-attachments/assets/ba1fb78f-0572-4c04-9c66-be1d678d0884)
+![Screenshot 2025-06-09 135718](https://github.com/user-attachments/assets/6c9adb9a-f060-4ebb-857b-aa08cfffb99c)
+![Screenshot 2025-06-09 135830](https://github.com/user-attachments/assets/2b938a2c-541c-4076-90b5-f88b652a69f3)
+![Screenshot 2025-06-09 140002](https://github.com/user-attachments/assets/a6689cf8-8947-4361-ba86-9fbc0fb3d486)
