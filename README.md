@@ -2,11 +2,11 @@
 
 # **🧾 1. Project Title**
 
-*![Evaluation of Deep Learning Algorithms for the Detection of Fake Bank Currency with Twilio API and Voice Assistant](https://img.shields.io/badge/Evaluation_of_Deep_Learning_Algorithms_for_the_Detection_of_Fake_Bank_Currency_using_CNN_with_Twilio_API_and_Voice_Assistant-%230000FF)*
+*![Evaluation of Deep Learning Algorithms for the Detection of Fake Bank Currency with Twilio API and Voice Assistant](https://img.shields.io/badge/Evaluation_of_Deep_Learning_Algorithms_for_the_Detection_of_Fake_Bank_Currency_using_CNN_with_Twilio_API_and_Voice_Assistant-%23FF00FF)*
 
 # **📌 2. Project Description**
 
-*This project detects counterfeit banknotes using deep learning techniques CNN - **Convolutional Neural Network** and LBP - **Local Binary Pattern**, integrates a voice-based assistant for interaction, and uses OTP authentication via Twilio API to secure access. The GUI is developed using Python's Tkinter with animated transitions and visual feedback to ensure an intuitive experience.*
+*This project detects ![counterfeit banknotes](https://img.shields.io/badge/counterfeit%20banknotes-%23ff0000) using deep learning techniques ![CNN](https://img.shields.io/badge/CNN-%230AFFFF) - **Convolutional Neural Network** and ![LBP](https://img.shields.io/badge/LBP-%23FFA62F) - **Local Binary Pattern**, integrates a ![voice-based assistant](https://img.shields.io/badge/voice_based-assistant-rebeccapurple) for interaction, and uses ![OTP authentication](https://img.shields.io/badge/OTP%20authentication-tan) via ![Twilio API](https://img.shields.io/badge/Twilio%20API-%23FF1493) to ![secure access](https://img.shields.io/badge/secure_access-%09%23FF4500). The GUI is developed using ![Python's Tkinter](https://img.shields.io/badge/Python's_Tkinter%20-%20%23ADFF2F) with animated transitions and visual feedback to ensure an intuitive experience.*
 
 # **🎥 3. Demo Video LPE ![[[Live Proof of Execution]](https://img.shields.io/badge/Live_Proof_of_Execution-%23DADBDD)](https://img.shields.io/badge/Live_Proof_of_Execution-%23E3E4FA)**
 
@@ -68,7 +68,8 @@ https://github.com/user-attachments/assets/aeb0056a-efad-48ba-914c-c0a863e211f8
       --> python FakeBankCurrenciesDetection.py,
       --> It will prompt you such as What's your name, for to enter your name,
       --> It will prompt you such as OTP Verification, for to enter otp which was sent to the number registered via Twilio API for secured access,
-      --> After authentication successful then it will loads the Preloader window for to launch the Fake Bank Currency Detection using CNN with Twilio API and Voice                    Assisstant, prloader will directly launch from google servers, automatically request will be sent to the servers to get preloader visible in the application, while 
+      --> After authentication successful then it will loads the Preloader window for to launch the Fake Bank Currency Detection using CNN with Twilio API and Voice
+          Assisstant, prloader will directly launch from google servers, automatically request will be sent to the servers to get preloader visible in the application, while 
           launching the main application then it gives a voice alert such as voice assisstant.
       --> When it launches the main application, it alert with voice message such as "Welcome to the Fake Bank Currency Detection using CNN with Twilio API and Voice
           Assisstant",
@@ -76,6 +77,12 @@ https://github.com/user-attachments/assets/aeb0056a-efad-48ba-914c-c0a863e211f8
       --> Next, when clicking the buttons such as "Generate Image Train and Test Model", "Upload Test Image", "Classify Picture In Image", and finally "Exit The 
           Application", so while clicking on these buttons it alerts us with voice messages like "Generating Image Train and Test Model", "Uploading Test Image",
           "Classifying Picture In Image", "Exiting The Application © 2025 Arshad Wasib Shaik All Rights Reserved."
+      --> Output to predict Fake/Real Notes and Coins.
 
 # **📸 Screenshots**
-        
+
+#### **For ![Fake](https://img.shields.io/badge/Fake%20-%20%23CC33FF) Notes and Coins - !["Image Contains Fake Currency, RBI Will Caught You!!!"](https://img.shields.io/badge/%22Image%20Contains%20Fake%20Currency%2C%20RBI%20Will%20Caught%20You!!!%22%20-%20%238B0000)**
+
+#### **For ![Real](https://img.shields.io/badge/Real%20-%20%235dfa00) Notes and Coins - !["Image Contains Real Currency, Deposited In Bank :)"](https://img.shields.io/badge/%22Image_Contains_Real_Currency%2C_Deposited_In_Bank%22%20-%20%237CFC00)**
+
+
