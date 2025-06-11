@@ -1,6 +1,11 @@
 # Detection-of-Fake-Bank-Currency-using-CNN-with-Twilio-API-and-Voice-Assistant
 ## Developed By ArshadA Shaik
 
+# **🖼️ Project Thumbnail**
+
+![image](https://github.com/user-attachments/assets/783f7530-4a67-471a-a650-3db2787b6d40)
+
+
 # **🧾 Project Title**
 
 *![Evaluation of Deep Learning Algorithms for the Detection of Fake Bank Currency with Twilio API and Voice Assistant](https://img.shields.io/badge/Evaluation_of_Deep_Learning_Algorithms_for_the_Detection_of_Fake_Bank_Currency_using_CNN_with_Twilio_API_and_Voice_Assistant-%23FF00FF)*
