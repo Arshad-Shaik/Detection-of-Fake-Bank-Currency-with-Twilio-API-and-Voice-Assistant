@@ -3,8 +3,7 @@
 
 # **🖼️ Project Thumbnail**
 
-![image](https://github.com/user-attachments/assets/783f7530-4a67-471a-a650-3db2787b6d40)
-
+![image](https://github.com/user-attachments/assets/a745fc9a-7be7-430e-b792-9ce6734ce359)
 
 # **🧾 Project Title**
 
