@@ -42,6 +42,7 @@ https://github.com/user-attachments/assets/aeb0056a-efad-48ba-914c-c0a863e211f8
            Technologies Used
            Usage
            Screenshots
+           MIT License
 
 # **🌟 Features**
 
