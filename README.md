@@ -118,6 +118,14 @@ https://github.com/user-attachments/assets/aeb0056a-efad-48ba-914c-c0a863e211f8
 ![Screenshot 2025-06-09 135830](https://github.com/user-attachments/assets/2b938a2c-541c-4076-90b5-f88b652a69f3)
 ![Screenshot 2025-06-09 140002](https://github.com/user-attachments/assets/a6689cf8-8947-4361-ba86-9fbc0fb3d486)
 
+## 📖 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
 # ⚖️ MIT License
 
 This project is licensed under the MIT License.
+
+---
+
+**⭐ If you found this project helpful, please give it a star on GitHub!**
