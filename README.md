@@ -120,7 +120,7 @@ https://github.com/user-attachments/assets/aeb0056a-efad-48ba-914c-c0a863e211f8
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+Contributions, issues, and feature requests are welcome! Feel free.
 
 # ⚖️ MIT License
 
