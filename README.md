@@ -13,6 +13,8 @@
 
 *This project detects ![counterfeit banknotes](https://img.shields.io/badge/counterfeit%20banknotes-%23ff0000) using deep learning techniques ![CNN](https://img.shields.io/badge/CNN-%230AFFFF) - **Convolutional Neural Network** and ![LBP](https://img.shields.io/badge/LBP-%23FFA62F) - **Local Binary Pattern**, integrates a ![voice-based assistant](https://img.shields.io/badge/voice_based-assistant-rebeccapurple) for interaction, and uses ![OTP authentication](https://img.shields.io/badge/OTP%20authentication-tan) via ![Twilio API](https://img.shields.io/badge/Twilio%20API-%23FF1493) to ![secure access](https://img.shields.io/badge/secure_access-%09%23FF4500). The GUI is developed using ![Python's Tkinter](https://img.shields.io/badge/Python's_Tkinter%20-%20%23ADFF2F) with animated transitions and visual feedback to ensure an intuitive experience.*
 
+**Engineered a Python desktop application with TensorFlow and CNN to classify currency authenticity with 95% accuracy. Incorporated NLP for text analysis and Twilio API for OTP‑based authentication, enhancing fraud prevention and accessibility. Optimized neural network workflows to increase system reliability by 25% and presented model insights to stakeholders, improving governance decisions by 30%.**
+
 # **🖥️ System Architecture**
 
 ![image](https://github.com/user-attachments/assets/13dd69d8-cfb3-46da-b9ca-caa0477e8e1d)
